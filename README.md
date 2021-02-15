@@ -17,6 +17,8 @@ This LaTeX beamer theme was based on fibeamer theme [Witiko/fibeamer](https://gi
 
 If you found any bugs please report them on [karlosos/zut-fibeamer](https://github.com/karlosos/zut-fibeamer/)
 
+PDF preview of this theme can be downloaded [here](https://github.com/karlosos/zut-fibeamer/releases/download/1.0/zut_fibeamer.pdf).
+
 ### How to use
 
 Compile it locally with `pdflatex` or open it on Overleaf. Edit contents of the presentation in `zutfibeamer.tex`.
