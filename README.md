@@ -8,8 +8,16 @@
 
 <p align="center">
   <a href="#about">About</a> •
-  <a href="#how-to-use">How to use</a>
+  <a href="#how-to-use">How to use</a> •
+  <a href="#my-other-templates">My other templates</a>
 </p>
+
+
+<div align="center">
+
+[![Overleaf](https://img.shields.io/badge/overleaf-open%20this%20theme%20on%20overleaf-green)](https://img.shields.io/badge/overleaf-open%20this%20theme%20on%20overleaf-green)
+
+</div>
 
 ## About
 
@@ -22,3 +30,14 @@ PDF preview of this theme can be downloaded [here](https://github.com/karlosos/z
 ### How to use
 
 Compile it locally with `pdflatex` or open it on Overleaf. Edit contents of the presentation in `zutfibeamer.tex`.
+
+You can also [open this template on Overleaf](https://www.overleaf.com/latex/templates/zut-fibeamer/ksnwzmnhktvn). 
+
+## My other templates
+
+
+| [ZUTBeamer](https://github.com/karlosos/ZUTBeamer) | [ZUTfibeamer](https://github.com/karlosos/zut-fibeamer) | [Scratch](https://github.com/karlosos/beamer-template-scratch) | 
+| ------ | -------- | -------- | 
+| <img src="docs/zutbeamer_1.png" width="300px"> | <img src="docs/zutfibeamer_1.png" width="300px"> | <img src="docs/scratch_1.png" width="300px">
+| <img src="docs/zutbeamer_2.png" width="300px"> | <img src="docs/zutfibeamer_2.png" width="300px"> | <img src="docs/scratch_2.png" width="300px">
+| <img src="docs/zutbeamer_3.png" width="300px"> | <img src="docs/zutfibeamer_3.png" width="300px"> | <img src="docs/scratch_3.png" width="300px">
