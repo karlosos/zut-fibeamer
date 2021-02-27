@@ -15,7 +15,7 @@
 
 <div align="center">
 
-[![Overleaf](https://img.shields.io/badge/overleaf-open%20this%20theme%20on%20overleaf-green)](https://img.shields.io/badge/overleaf-open%20this%20theme%20on%20overleaf-green)
+[![Overleaf](https://img.shields.io/badge/Overleaf-open%20on%20overleaf-green)](https://www.overleaf.com/latex/templates/zut-fibeamer/ksnwzmnhktvn)
 
 </div>
 
